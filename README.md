@@ -6,11 +6,12 @@ ios 15 mockup :
  - vite (https://vitejs.dev/)
 ---
 Command used to set up the project : 
-
->mkdir ios-15-tailwindcss
->npm init -y
->npm install -D tailwindcss postcss autoprefixer vite
->npx tailwindcss init -p
+```console
+mkdir ios-15-tailwindcss
+npm init -y
+npm install -D tailwindcss postcss autoprefixer vite
+npx tailwindcss init -p
+```
 ---
 Edit to package.json :
 
