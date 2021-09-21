@@ -14,11 +14,12 @@ npx tailwindcss init -p
 ```
 ---
 Edit to package.json :
-
+```json
 "scripts": {
     "dev": "vite"
-},
+},```
 ---
 How to run the project :
-
+```console
 npm run dev
+```
