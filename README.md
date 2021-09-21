@@ -7,10 +7,10 @@ ios 15 mockup :
 ---
 Command used to set up the project : 
 
-mkdir ios-15-tailwindcss
-npm init -y
-npm install -D tailwindcss postcss autoprefixer vite
-npx tailwindcss init -p
+>mkdir ios-15-tailwindcss
+>npm init -y
+>npm install -D tailwindcss postcss autoprefixer vite
+>npx tailwindcss init -p
 ---
 Edit to package.json :
 
